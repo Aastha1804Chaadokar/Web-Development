@@ -1,0 +1,15 @@
+#outerDiv {
+border: 1px solid black;
+width: 600px;
+height: 200px;
+display: flex;
+justify-content: space-evenly;
+align-items: center;
+}
+
+
+.innerDiv {
+    border: 1px solid black;
+    width: 100px;
+    height: 100px;
+}
