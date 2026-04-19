@@ -1,0 +1,27 @@
+:root{
+    --main-color:rgb(87, 202, 52);
+    --sub-color:bisque;
+    --text-color:brown;
+}
+#btn{
+    background-color: aqua;
+}
+#btn2{
+    background-color: blue;
+}
+
+h1{
+    color: var(--main-color);
+}
+h2{
+    color: bisque;
+}
+p{
+    color: blueviolet;
+}
+th{
+    color: var(--main-color);
+}
+td{
+    color: brown;
+}
