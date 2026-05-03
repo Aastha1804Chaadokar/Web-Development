@@ -105,3 +105,74 @@ while(l>=5)
 
 }
 console.log(sum);
+
+// 5.Create a while loop and explain the role of
+// initialization, condition, and increment in it.
+
+let y = 1;          
+while (y <= 5) {    
+    console.log(y); 
+    y++;           
+}
+
+// 6.Write a loop and trace its execution step-bystep (initialization → condition → work →
+// update → repeat).
+
+let x = 1;
+while (x <= 3) {
+    console.log(x);
+    x++;
+}
+// 7.Create a loop where the condition is false at
+// the beginning and explain what happens.
+
+let a = 10;
+
+while (a < 5) {
+    console.log(a);
+    a++;
+}
+
+// 8.Write a loop and explain what happens if the
+// variable is not updated inside the loop.
+
+let p = 1;
+
+while (p <= 5) {
+    console.log(p);
+    
+}
+
+// 9.Create a loop and explain when and why it becomes an infinite loop.
+
+let h = 1;
+
+while (h <= 5) {
+    console.log(h);
+}
+
+// 10. Write a loop and explain how the condition controls the stopping of the loop.
+
+let b = 1;
+
+while (b <= 3) {
+    console.log(b);
+    b++;
+}
+
+// 11. Create a loop and explain how changing increment to decrement affects the execution.
+
+let q = 1;
+
+while (q <= 5) {
+    console.log(q);
+}
+
+// 12. Write a loop and explain how many times it will run based on the condition
+
+let r = 1;
+
+while (r <= 4) {
+    console.log(r);
+    r++;
+}
