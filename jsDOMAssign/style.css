@@ -1,0 +1,46 @@
+.form-box{
+    width: 300px;
+    margin: 50px auto;
+    padding: 20px;
+    border: 2px solid black;
+    box-shadow: 10px;
+}
+#result{
+    display: none;
+    margin-top:15px;
+    color: purple;
+    font-weight: bold;
+}
+ .form-box-2 {
+      width: 300px;
+      margin: 50px auto;
+      padding: 20px;
+      border: 2px solid black;
+      box-shadow: 10px;
+      
+    }
+
+    #result2 {
+      display: none;
+      margin-top: 15px;
+      color: purple;
+      font-weight: bold;
+    }
+
+     .form-box-3 {
+      width: 300px;
+      margin: 50px auto;
+      padding: 20px;
+      border: 2px solid black;
+      border-radius: 10px;
+    }
+
+    #result3 {
+      display: none;
+      margin-top: 20px;
+      padding: 10px;
+      color: darkblue; /* text color */
+      box-shadow: 3px 3px 8px gray; /* shadow */
+      font-weight: bold;
+    }
+ 
