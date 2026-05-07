@@ -1,0 +1,10 @@
+.outerdiv{
+    border: 1px solid black;
+    display: flex;
+}
+.left{
+     border: 1px solid black;
+}
+.right{
+    border: 1px solid black;
+}
