@@ -1,3 +1,4 @@
+// SubmitButton
 document
   .getElementById("registrationFrom")
   .addEventListener("submit", (event) => {
