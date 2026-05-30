@@ -1,0 +1,31 @@
+[
+  {
+    "country": "INDIA",
+    "currency_code": "inr",
+    "country_code": "IN"
+  },
+
+  {
+    "country": "UNITED STATES",
+    "currency_code": "usd",
+    "country_code": "US"
+  },
+
+  {
+    "country": "EUROPE",
+    "currency_code": "eur",
+    "country_code": "EU"
+  },
+
+  {
+    "country": "JAPAN",
+    "currency_code": "jpy",
+    "country_code": "JP"
+  },
+
+  {
+    "country": "UNITED KINGDOM",
+    "currency_code": "gbp",
+    "country_code": "GB"
+  }
+]
